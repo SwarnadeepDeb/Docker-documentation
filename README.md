@@ -42,7 +42,7 @@ This documentation provides step-by-step instructions to set up Docker for a MER
 ---
 
 ## **Docker Architecture**
-![Docker Architecture](docker%20architecture.png "Docker Architecture")
+![Docker Architecture](docker-architecture.png "Docker Architecture")
 
 ---
 
